@@ -104,7 +104,7 @@ foreach($childcats as $childcat) {
 	<div class="sitenav">
 
 	<button type="button" id="navbtn">
-	<i class="fa fa-bars"></i><span>MENU</span>
+	<i class="fa fa-bars"></i><span>Menu</span>
 	</button>
 
 	<?php wp_nav_menu( array(
