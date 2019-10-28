@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 ‚±‚±‚±‚±‚Á‚±‚¨‚‹
+=======
+1111111
+>>>>>>> refs/remotes/origin/master
